@@ -1,0 +1,1 @@
+[23-May-2013 17:21:16 America/New_York] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 100 bytes) in /home/esdevebn/public_html/esalasdrupal.com.ar/includes/database/database.inc on line 2168

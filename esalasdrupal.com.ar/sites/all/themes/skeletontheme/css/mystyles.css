@@ -1,0 +1,72 @@
+/** Mis Estilos **/
+
+/** Header **/
+#header .inner {
+	padding:0px;	
+}
+
+/** Nombre del Sitio **/
+#site-name {
+	font-size:45px;
+}
+
+/** Formulario de búsqueda **/
+#search-block-form {
+	float:right;
+	margin-bottom:1em;
+}
+
+/** Body **/
+body {
+	font-size:16px;	
+}
+
+/** FlexSlider **/
+.flexslider {
+	border:Opx;	
+}
+
+.flexslider ul.slides {
+	margin:0px;
+	padding:0px;	
+}
+
+.flex-direction-nav li .prev {
+	left:0px;		
+}
+
+.flex-direction-nav li .next {
+	right:0px;	
+}
+
+.region-content ol.flex-control-nav {
+	margin:0px 0px 2em 0px;
+	padding:0px;	
+}
+
+/** Puntos de Acción y Vídeos **/
+div.views-fluid-grid ul.views-fluid-grid-list.views-fluid-grid-items-box-shadow.views-fluid-grid-items-border-radius ,
+div.views-fluid-grid ul.views-fluid-grid-list.views-fluid-grid-items-width-300  {
+	margin:0px;
+	padding:0px;	
+}
+
+h2.titulopa {
+	text-align:center;	
+}
+
+/** Artículos **/
+div.parrafo {
+	text-align:justify;	
+}
+
+/** Footer **/
+#footer {
+	padding:0px;	
+}
+
+/** Sindicar **/
+#block-node-syndicate {
+	text-align:center;
+	padding-bottom:0.5em !important;
+}

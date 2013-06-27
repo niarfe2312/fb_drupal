@@ -1,0 +1,26 @@
+<?php
+/**
+* @file
+* Archivo para empezar a programar con Drupal
+*/
+
+/**
+* Implementación del hook_menu()
+*/
+
+function holaMundo_menu() {
+  $items['holaMundo/holaMundo'] = array(
+    'title' => t('Works'),
+	'page callback' => 'funciona_hola_mundo',
+	'access callback' => TRUE,
+  );
+  return $items;
+}
+
+/**
+* Callback que implementa la página: holaMundo/holaMundo
+*/
+function funciona_hola_mundo(){
+  return t('Hello World! Drupal works!');
+}
+
