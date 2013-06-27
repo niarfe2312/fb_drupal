@@ -1,0 +1,19 @@
+﻿
+
+Acceso a la administración del sitio
+
+
+Usuario: efrain
+Contraseña: f*w}$+jvE-
+
+
+
+
+*** Recuerde modificar en el archivo settings.php
+- nombre de la base de datos
+- nombre de usuario
+- contraseña
+
+
+El archivo a modificar se encuentra en: /sites/default/settings.php
+
